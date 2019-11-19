@@ -60,7 +60,7 @@ header.masthead {
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
   
-  background-image: "img/banner1.jpg";
+  background-image: url("img/banner1.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
