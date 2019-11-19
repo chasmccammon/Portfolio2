@@ -4,3 +4,8 @@
     background-color:lightslategrey;
     width:1200px;
 }
+.center
+{
+    text-align: center;
+    margin:auto;
+}
